@@ -7,3 +7,6 @@ Wolf timer with multiple features like
 4. System Timer
 5. Task Timer
 ```
+Supported on various Operation System
+with some configuraton tweaks
+Windows, Mac, Linux
