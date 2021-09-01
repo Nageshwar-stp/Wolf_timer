@@ -10,3 +10,4 @@ Wolf timer with multiple features like
 Supported on various Operation System
 with some configuraton tweaks
 Windows, Mac, Linux
+
